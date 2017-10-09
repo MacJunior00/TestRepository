@@ -40,6 +40,7 @@ public class VektorTest {
         assertEquals(expResult.toString(), result.toString());
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
+        //so ein scheiss
     }
 
     /**
@@ -113,6 +114,7 @@ public class VektorTest {
         assertEquals(expResult.toString(), result.toString());
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
+        System.out.println("hallo");
     }
     
 }
